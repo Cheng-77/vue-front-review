@@ -1,6 +1,6 @@
 import {deleteBrandById, findByPage,batchByIdList,saveBrand,selectById,updateBrandById,uploadImg} from "@/api/brand";
 import pickerOptions from "@/utils/date";
-import base64 from "@/utils/base64";
+/*import base64 from "@/utils/base64";*/
 
 export default {
     data() {
